@@ -20,7 +20,9 @@
 <br>
 
 ## ✨ 기술 스택 
-![30 (4)](https://github.com/Freeder-corp/.github/assets/59727077/f5217182-953d-4b71-a53a-60bef36c4fc3)
+![30 (5)](https://github.com/Freeder-corp/.github/assets/59727077/eeca083b-2bc5-448a-a006-a497cc1ce7a2)
+
+
 
 
 ## 🦉 서비스 인프라 구조
