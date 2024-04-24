@@ -1,13 +1,12 @@
 # BUCLIN
 <div align=center>
-  <img width="492" alt="스크린샷 2022-09-30 오후 5 31 24" src="https://user-images.githubusercontent.com/80666066/193769096-9162414f-16ff-4c74-878f-5661b0f671cc.png">
-  <h2> 사라지는 Slack 메세지, 우리가 주워줄게! </h2>
-  https://jupjup.site/
+  <img width="492" alt="스크린샷 2022-09-30 오후 5 31 24" src="https://github.com/Freeder-corp/.github/assets/59727077/ff5b83b6-f954-4e88-b81d-0881122530ee">
+  <h2> 최저가 리워드 패션 커머스 플랫폼 </h2>
   <br>
   <br>
-  <strong>줍줍</strong>은 연결된 슬랙 워크스페이스 메시지를 실시간 백업하여
+  <strong>BUCLIN은 20~30대 여성을 타겟으로 구매 시 상품 금액의 3%의 포인트를 제공받는 
   <br>
-  무료 워크스페이스라도 잠길 걱정 없이 언제든 볼 수 있게 해주는 서비스입니다
+  패션 이커머스 플랫폼 프로젝트입니다.
   <br>
   <br>
 
