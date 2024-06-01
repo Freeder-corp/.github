@@ -1,4 +1,4 @@
-# BUCLIN
+# BUCL
 <div align=center>
   <img width="492" alt="스크린샷 2022-09-30 오후 5 31 24" src="https://github.com/Freeder-corp/.github/assets/59727077/ff5b83b6-f954-4e88-b81d-0881122530ee">
   <h2> 최저가 리워드 패션 커머스 플랫폼 </h2>
