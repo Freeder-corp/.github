@@ -1,12 +1,13 @@
 # BUCL
 <div align=center>
-  <img width="492" alt="스크린샷 2022-09-30 오후 5 31 24" src="https://github.com/Freeder-corp/.github/assets/59727077/ff5b83b6-f954-4e88-b81d-0881122530ee">
-  <h2> 최저가 리워드 패션 커머스 플랫폼 </h2>
+
+  <img src="[https://github.com/Freeder-corp/.github/assets/59727077/ff5b83b6-f954-4e88-b81d-0881122530ee](https://github.com/Freeder-corp/.github/assets/59727077/91c53736-3997-410b-8cbe-e2d63fd985c2)">
+  <h2> 버틀 </h2>
   <br>
   <br>
-  <strong>BUCLIN은 20~30대 여성을 타겟으로 구매 시 상품 금액의 3%의 포인트를 제공받는 
+  <strong>BUCLN은 30~40대 여성 주부들을 위한 
   <br>
-  패션 이커머스 플랫폼 프로젝트입니다.
+  공동구매 이커머스 플랫폼 입니다.
   <br>
   <br>
 
@@ -20,13 +21,14 @@
 <br>
 
 ## ✨ 기술 스택 
-![30 (5)](https://github.com/Freeder-corp/.github/assets/59727077/eeca083b-2bc5-448a-a006-a497cc1ce7a2)
-
-
+![30](https://github.com/Freeder-corp/.github/assets/59727077/87d27a5c-6606-4d32-ad9e-3aada16f9a8d)
 
 
 ## 🦉 서비스 인프라 구조
 ![BUCL Architecture (11)](https://github.com/Freeder-corp/.github/assets/59727077/6318cff4-7048-4c83-955d-649fada3b431)
 
   
-
+## ERD
+<img width="1285" alt="Untitled (15)" src="https://github.com/Freeder-corp/.github/assets/59727077/1b75499b-441d-4698-9920-4f634741e639">
+<p>ERDCLOUD: <a href="https://www.erdcloud.com/d/MupKT47pLbZca2vwv">bucl_dump<a></p>
+<p>Notion: <a href="https://www.notion.so/ckdals/BUCL_DB-fd88a1ad06e144dd9cb52dd9530e7199">Notion<a></p>
